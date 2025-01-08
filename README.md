@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Julia: insufficient error handling in a function. The `myfunction` initially lacks error checks for non-numeric inputs. The solution adds robust error handling to gracefully manage such cases.
